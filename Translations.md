@@ -1,4 +1,4 @@
-# Use case
+# Use case for sam
 ``Syntax: ,translate <language> <message>``
 ``Example: ,translate english كس امك``
 
