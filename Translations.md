@@ -1,7 +1,6 @@
 # Use case
-Syntax: ,translate <language> <message>
-
-Example: ,translate english كس امك
+``Syntax: ,translate <language> <message>``
+``Example: ,translate english كس امك``
 
 # Supported language
 
